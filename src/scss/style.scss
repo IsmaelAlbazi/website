@@ -1,0 +1,22 @@
+/* modules */
+@import "modules/colors";
+@import "modules/typo";
+@import "modules/layout";
+
+/* Mixins */
+@import "mixins/mixins";
+
+/* Partials */
+@import 'partials/header';
+@import 'partials/footer';
+@import 'partials/navigation';
+
+/* sections */
+@import 'sections/home';
+@import 'sections/about';
+@import 'sections/projects';
+@import 'sections/project';
+@import 'sections/project-test';
+
+/* Vendor */
+@import 'vendor/normalize';
