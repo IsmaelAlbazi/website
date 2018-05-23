@@ -21,7 +21,7 @@
 			<li class="home__list-item">knippen 10$</li>
 			<li class="home__list-item">wassen 15$</li>
 			<li class="home__list-item">verven 25$</li>
-			<li class="home__list-item">kaal 0$</li>
+			<li class="home__list-item">de jong 0$</li>
 		</ul>
 	</div>
 </section>
